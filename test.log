@@ -1,0 +1,1017 @@
+############################### date and time ########################################### 
+2020年 04月 30日 星期四 18:34:00 CST
+
+
+############################### os version ##############################################  
+     1	Kali GNU/Linux Rolling \n \l
+     2	
+Linux kali 5.4.0-kali4-amd64 #1 SMP Debian 5.4.19-1kali1 (2020-02-17) x86_64 GNU/Linux
+
+
+############################### hardware information ###################################### 
+     1	processor	: 0
+     2	vendor_id	: GenuineIntel
+     3	cpu family	: 6
+     4	model		: 158
+     5	model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+     6	stepping	: 10
+     7	microcode	: 0x96
+     8	cpu MHz		: 2208.002
+     9	cache size	: 9216 KB
+    10	physical id	: 0
+    11	siblings	: 3
+    12	core id		: 0
+    13	cpu cores	: 3
+    14	apicid		: 0
+    15	initial apicid	: 0
+    16	fpu		: yes
+    17	fpu_exception	: yes
+    18	cpuid level	: 22
+    19	wp		: yes
+    20	flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xsaves arat flush_l1d arch_capabilities
+    21	bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+    22	bogomips	: 4416.00
+    23	clflush size	: 64
+    24	cache_alignment	: 64
+    25	address sizes	: 43 bits physical, 48 bits virtual
+    26	power management:
+    27	
+    28	processor	: 1
+    29	vendor_id	: GenuineIntel
+    30	cpu family	: 6
+    31	model		: 158
+    32	model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+    33	stepping	: 10
+    34	microcode	: 0x96
+    35	cpu MHz		: 2208.002
+    36	cache size	: 9216 KB
+    37	physical id	: 0
+    38	siblings	: 3
+    39	core id		: 1
+    40	cpu cores	: 3
+    41	apicid		: 1
+    42	initial apicid	: 1
+    43	fpu		: yes
+    44	fpu_exception	: yes
+    45	cpuid level	: 22
+    46	wp		: yes
+    47	flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xsaves arat flush_l1d arch_capabilities
+    48	bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+    49	bogomips	: 4416.00
+    50	clflush size	: 64
+    51	cache_alignment	: 64
+    52	address sizes	: 43 bits physical, 48 bits virtual
+    53	power management:
+    54	
+    55	processor	: 2
+    56	vendor_id	: GenuineIntel
+    57	cpu family	: 6
+    58	model		: 158
+    59	model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+    60	stepping	: 10
+    61	microcode	: 0x96
+    62	cpu MHz		: 2208.002
+    63	cache size	: 9216 KB
+    64	physical id	: 0
+    65	siblings	: 3
+    66	core id		: 2
+    67	cpu cores	: 3
+    68	apicid		: 2
+    69	initial apicid	: 2
+    70	fpu		: yes
+    71	fpu_exception	: yes
+    72	cpuid level	: 22
+    73	wp		: yes
+    74	flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xsaves arat flush_l1d arch_capabilities
+    75	bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+    76	bogomips	: 4416.00
+    77	clflush size	: 64
+    78	cache_alignment	: 64
+    79	address sizes	: 43 bits physical, 48 bits virtual
+    80	power management:
+    81	
+    82	processor	: 3
+    83	vendor_id	: GenuineIntel
+    84	cpu family	: 6
+    85	model		: 158
+    86	model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+    87	stepping	: 10
+    88	microcode	: 0x96
+    89	cpu MHz		: 2208.002
+    90	cache size	: 9216 KB
+    91	physical id	: 1
+    92	siblings	: 3
+    93	core id		: 0
+    94	cpu cores	: 3
+    95	apicid		: 4
+    96	initial apicid	: 4
+    97	fpu		: yes
+    98	fpu_exception	: yes
+    99	cpuid level	: 22
+   100	wp		: yes
+   101	flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xsaves arat flush_l1d arch_capabilities
+   102	bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+   103	bogomips	: 4416.00
+   104	clflush size	: 64
+   105	cache_alignment	: 64
+   106	address sizes	: 43 bits physical, 48 bits virtual
+   107	power management:
+   108	
+   109	processor	: 4
+   110	vendor_id	: GenuineIntel
+   111	cpu family	: 6
+   112	model		: 158
+   113	model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+   114	stepping	: 10
+   115	microcode	: 0x96
+   116	cpu MHz		: 2208.002
+   117	cache size	: 9216 KB
+   118	physical id	: 1
+   119	siblings	: 3
+   120	core id		: 1
+   121	cpu cores	: 3
+   122	apicid		: 5
+   123	initial apicid	: 5
+   124	fpu		: yes
+   125	fpu_exception	: yes
+   126	cpuid level	: 22
+   127	wp		: yes
+   128	flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xsaves arat flush_l1d arch_capabilities
+   129	bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+   130	bogomips	: 4416.00
+   131	clflush size	: 64
+   132	cache_alignment	: 64
+   133	address sizes	: 43 bits physical, 48 bits virtual
+   134	power management:
+   135	
+   136	processor	: 5
+   137	vendor_id	: GenuineIntel
+   138	cpu family	: 6
+   139	model		: 158
+   140	model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+   141	stepping	: 10
+   142	microcode	: 0x96
+   143	cpu MHz		: 2208.002
+   144	cache size	: 9216 KB
+   145	physical id	: 1
+   146	siblings	: 3
+   147	core id		: 2
+   148	cpu cores	: 3
+   149	apicid		: 6
+   150	initial apicid	: 6
+   151	fpu		: yes
+   152	fpu_exception	: yes
+   153	cpuid level	: 22
+   154	wp		: yes
+   155	flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xsaves arat flush_l1d arch_capabilities
+   156	bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+   157	bogomips	: 4416.00
+   158	clflush size	: 64
+   159	cache_alignment	: 64
+   160	address sizes	: 43 bits physical, 48 bits virtual
+   161	power management:
+   162	
+
+ 
+Disk /dev/sda: 50 GiB, 53687091200 bytes, 104857600 sectors
+Disk model: VMware Virtual S
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x4843e7c8
+
+
+Device     Boot    Start       End  Sectors Size Id Type
+/dev/sda1  *        2048  98568191 98566144  47G 83 Linux
+/dev/sda2       98570238 104855551  6285314   3G  5 Extended
+/dev/sda5       98570240 104855551  6285312   3G 82 Linux swap / Solaris
+文件系统        容量  已用  可用 已用% 挂载点
+udev            1.5G     0  1.5G    0% /dev
+tmpfs           297M  1.4M  296M    1% /run
+/dev/sda1        47G   21G   24G   48% /
+tmpfs           1.5G  4.0K  1.5G    1% /dev/shm
+tmpfs           5.0M     0  5.0M    0% /run/lock
+tmpfs           1.5G     0  1.5G    0% /sys/fs/cgroup
+tmpfs           297M  4.8M  293M    2% /run/user/1000
+/dev/sr0        2.0G  2.0G     0  100% /media/cdrom0
+
+
+############################### uptime ############################################### 
+ 19:47:58 up  1:15,  1 user,  load average: 0.23, 0.21, 0.17
+
+
+############################### services information ###################################### 
+ [ - ]  apache-htcacheclean
+ [ - ]  apache2
+ [ - ]  apparmor
+ [ - ]  atftpd
+ [ - ]  avahi-daemon
+ [ + ]  binfmt-support
+ [ - ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ - ]  cryptdisks
+ [ - ]  cryptdisks-early
+ [ + ]  dbus
+ [ - ]  dns2tcp
+ [ + ]  gdm3
+ [ + ]  haveged
+ [ - ]  hddtemp
+ [ - ]  hwclock.sh
+ [ - ]  inetsim
+ [ - ]  iodined
+ [ - ]  ipsec
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ - ]  lightdm
+ [ - ]  lm-sensors
+ [ - ]  miredo
+ [ - ]  mysql
+ [ - ]  nessusd
+ [ + ]  network-manager
+ [ + ]  networking
+ [ - ]  nfs-common
+ [ - ]  nginx
+ [ - ]  nmbd
+ [ - ]  ntp
+ [ + ]  open-vm-tools
+ [ - ]  openvpn
+ [ - ]  pcscd
+ [ - ]  plymouth
+ [ - ]  plymouth-log
+ [ - ]  postgresql
+ [ - ]  pppd-dns
+ [ + ]  procps
+ [ - ]  ptunnel
+ [ - ]  pulseaudio-enable-autospawn
+ [ - ]  redsocks
+ [ - ]  rlinetd
+ [ - ]  rpcbind
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ - ]  rwhod
+ [ - ]  samba-ad-dc
+ [ - ]  saned
+ [ - ]  screen-cleanup
+ [ + ]  smartmontools
+ [ - ]  smbd
+ [ - ]  snmpd
+ [ - ]  snort
+ [ - ]  speech-dispatcher
+ [ - ]  ssh
+ [ - ]  sslh
+ [ + ]  stunnel4
+ [ - ]  sudo
+ [ - ]  sysstat
+ [ + ]  udev
+ [ - ]  unattended-upgrades
+ [ - ]  x11-common
+ [ - ]  xl2tpd
+ 
+ 
+############################### nic information ###################################### 
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.11  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::3868:e355:c472:66b  prefixlen 64  scopeid 0x20<link>
+        ether 00:0c:29:bf:6e:a6  txqueuelen 1000  (Ethernet)
+        RX packets 290  bytes 41786 (40.8 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 141  bytes 14339 (14.0 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 59459  bytes 12960612 (12.3 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 59459  bytes 12960612 (12.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+
+############################### route information ########################################## 
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+0.0.0.0         192.168.0.1     0.0.0.0         UG        0 0          0 eth0
+192.168.0.0     0.0.0.0         255.255.255.0   U         0 0          0 eth0
+
+
+############################### arp information ############################################ 
+_gateway (192.168.0.1) at 48:7d:2e:ad:32:1b [ether] on eth0
+? (192.168.0.2) at 18:01:f1:20:51:7e [ether] on eth0
+
+
+############################### information of processes ######################################
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.3 168464 10632 ?        -    18:32   0:04 /sbin/init splash
+root           -  0.0    -      -     - -        Ss   18:32   0:04 -
+root           2  0.0  0.0      0     0 ?        -    18:32   0:00 [kthreadd]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root           3  0.0  0.0      0     0 ?        -    18:32   0:00 [rcu_gp]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root           4  0.0  0.0      0     0 ?        -    18:32   0:00 [rcu_par_gp]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root           6  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/0:0H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root           8  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/u256:0-events_unbound]
+root           -  0.0    -      -     - -        I    18:32   0:00 -
+root           9  0.0  0.0      0     0 ?        -    18:32   0:00 [mm_percpu_wq]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          10  0.0  0.0      0     0 ?        -    18:32   0:00 [ksoftirqd/0]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          11  0.0  0.0      0     0 ?        -    18:32   0:03 [rcu_sched]
+root           -  0.0    -      -     - -        I    18:32   0:03 -
+root          12  0.0  0.0      0     0 ?        -    18:32   0:00 [migration/0]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          13  0.0  0.0      0     0 ?        -    18:32   0:00 [cpuhp/0]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          14  0.0  0.0      0     0 ?        -    18:32   0:00 [cpuhp/1]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          15  0.0  0.0      0     0 ?        -    18:32   0:00 [migration/1]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          16  0.0  0.0      0     0 ?        -    18:32   0:00 [ksoftirqd/1]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          18  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/1:0H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          19  0.0  0.0      0     0 ?        -    18:32   0:00 [cpuhp/2]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          20  0.0  0.0      0     0 ?        -    18:32   0:00 [migration/2]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          21  0.0  0.0      0     0 ?        -    18:32   0:00 [ksoftirqd/2]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          23  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/2:0H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          24  0.0  0.0      0     0 ?        -    18:32   0:00 [cpuhp/3]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          25  0.0  0.0      0     0 ?        -    18:32   0:00 [migration/3]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          26  0.0  0.0      0     0 ?        -    18:32   0:00 [ksoftirqd/3]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          28  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/3:0H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          29  0.0  0.0      0     0 ?        -    18:32   0:00 [cpuhp/4]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          30  0.0  0.0      0     0 ?        -    18:32   0:00 [migration/4]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          31  0.0  0.0      0     0 ?        -    18:32   0:00 [ksoftirqd/4]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          32  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/4:0-events]
+root           -  0.0    -      -     - -        I    18:32   0:00 -
+root          33  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/4:0H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          34  0.0  0.0      0     0 ?        -    18:32   0:00 [cpuhp/5]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          35  0.0  0.0      0     0 ?        -    18:32   0:00 [migration/5]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          36  0.0  0.0      0     0 ?        -    18:32   0:00 [ksoftirqd/5]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          38  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/5:0H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          39  0.0  0.0      0     0 ?        -    18:32   0:00 [kdevtmpfs]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          40  0.0  0.0      0     0 ?        -    18:32   0:00 [netns]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          41  0.0  0.0      0     0 ?        -    18:32   0:00 [kauditd]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          42  0.1  0.0      0     0 ?        -    18:32   0:07 [kworker/0:2+pm]
+root           -  0.1    -      -     - -        D    18:32   0:07 -
+root          43  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/1:1-ata_sff]
+root           -  0.0    -      -     - -        I    18:32   0:00 -
+root          45  0.0  0.0      0     0 ?        -    18:32   0:00 [khungtaskd]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          46  0.0  0.0      0     0 ?        -    18:32   0:00 [oom_reaper]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          47  0.0  0.0      0     0 ?        -    18:32   0:00 [writeback]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          48  0.0  0.0      0     0 ?        -    18:32   0:00 [kcompactd0]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root          49  0.0  0.0      0     0 ?        -    18:32   0:00 [ksmd]
+root           -  0.0    -      -     - -        SN   18:32   0:00 -
+root          50  0.0  0.0      0     0 ?        -    18:32   0:00 [khugepaged]
+root           -  0.0    -      -     - -        SN   18:32   0:00 -
+root          96  0.0  0.0      0     0 ?        -    18:32   0:00 [kintegrityd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          97  0.0  0.0      0     0 ?        -    18:32   0:00 [kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          98  0.0  0.0      0     0 ?        -    18:32   0:00 [blkcg_punt_bio]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root          99  0.0  0.0      0     0 ?        -    18:32   0:00 [edac-poller]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         100  0.0  0.0      0     0 ?        -    18:32   0:00 [devfreq_wq]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         102  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/3:1-events]
+root           -  0.0    -      -     - -        I    18:32   0:00 -
+root         103  0.0  0.0      0     0 ?        -    18:32   0:00 [kswapd0]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         104  0.0  0.0      0     0 ?        -    18:32   0:00 [kthrotld]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         105  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/24-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         106  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/25-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         107  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/26-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         108  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/27-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         109  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/28-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         110  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/29-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         111  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/30-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         112  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/31-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         113  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/32-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         114  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/33-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         115  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/34-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         116  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/35-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         117  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/36-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         118  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/37-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         119  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/38-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         120  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/39-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         121  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/40-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         122  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/41-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         123  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/42-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         124  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/43-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         125  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/44-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         126  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/45-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         127  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/46-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         128  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/47-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         129  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/48-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         130  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/49-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         131  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/50-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         132  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/51-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         133  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/52-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         134  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/53-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         135  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/54-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         136  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/55-pciehp]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         137  0.0  0.0      0     0 ?        -    18:32   0:00 [acpi_thermal_pm]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         138  0.0  0.0      0     0 ?        -    18:32   0:00 [ipv6_addrconf]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         149  0.0  0.0      0     0 ?        -    18:32   0:00 [kstrp]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         153  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/u257:0-hci0]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         204  0.0  0.0      0     0 ?        -    18:32   0:01 [kworker/2:2-rcu_gp]
+root           -  0.0    -      -     - -        I    18:32   0:01 -
+root         205  0.0  0.0      0     0 ?        -    18:32   0:00 [cryptd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         206  0.0  0.0      0     0 ?        -    18:32   0:00 [mpt_poll_0]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         207  0.0  0.0      0     0 ?        -    18:32   0:00 [mpt/0]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         208  0.0  0.0      0     0 ?        -    18:32   0:00 [ata_sff]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         209  0.0  0.0      0     0 ?        -    18:32   0:00 [scsi_eh_0]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         212  0.0  0.0      0     0 ?        -    18:32   0:00 [scsi_tmf_0]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         213  0.0  0.0      0     0 ?        -    18:32   0:00 [scsi_eh_1]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         214  0.0  0.0      0     0 ?        -    18:32   0:00 [scsi_tmf_1]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         216  0.0  0.0      0     0 ?        -    18:32   0:00 [irq/16-vmwgfx]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         218  0.0  0.0      0     0 ?        -    18:32   0:00 [ttm_swap]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         293  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/4:1H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         295  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/1:1H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         296  0.0  0.0      0     0 ?        -    18:32   0:00 [scsi_eh_2]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         297  0.0  0.0      0     0 ?        -    18:32   0:00 [scsi_tmf_2]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         299  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/2:1H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         300  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/5:1H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         326  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/3:1H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         339  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/0:1H-kblockd]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         345  0.0  0.0      0     0 ?        -    18:32   0:00 [jbd2/sda1-8]
+root           -  0.0    -      -     - -        S    18:32   0:00 -
+root         346  0.0  0.0      0     0 ?        -    18:32   0:00 [ext4-rsv-conver]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         390  0.0  0.5  53136 17416 ?        -    18:32   0:01 /lib/systemd/systemd-journald
+root           -  0.0    -      -     - -        Ss   18:32   0:01 -
+root         396  0.0  0.0      0     0 ?        -    18:32   0:00 [rpciod]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         397  0.0  0.0      0     0 ?        -    18:32   0:00 [xprtiod]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         407  0.0  0.0 150432   276 ?        -    18:32   0:00 vmware-vmblock-fuse /run/vmblock-fuse -o rw,subtype=vmware-vmblock,default_permissions,allow_other,dev,suid
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root         416  0.0  0.2  22428  6656 ?        -    18:32   0:00 /lib/systemd/systemd-udevd
+root           -  0.0    -      -     - -        Ss   18:32   0:00 -
+root         582  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/u257:2-hci0]
+root           -  0.0    -      -     - -        I<   18:32   0:00 -
+root         593  0.0  0.1   8088  4824 ?        -    18:32   0:01 /usr/sbin/haveged --Foreground --verbose=1 -w 1024
+root           -  0.0    -      -     - -        Ss   18:32   0:01 -
+root         595  0.0  0.2 162980  7772 ?        -    18:32   0:03 /usr/bin/vmtoolsd
+root           -  0.0    -      -     - -        S<sl 18:32   0:03 -
+root           -  0.0    -      -     - -        S<sl 18:32   0:00 -
+root           -  0.0    -      -     - -        S<sl 18:32   0:00 -
+root         596  0.0  0.0      0     0 ?        -    18:32   0:00 [kworker/1:3-mm_percpu_wq]
+root           -  0.0    -      -     - -        I    18:32   0:00 -
+root         597  0.0  0.2 235752  7600 ?        -    18:32   0:00 /usr/lib/accountsservice/accounts-daemon
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root         598  0.0  0.0   6780  2784 ?        -    18:32   0:00 /usr/sbin/cron -f
+root           -  0.0    -      -     - -        Ss   18:32   0:00 -
+message+     599  0.0  0.1   8492  5508 ?        -    18:32   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+message+       -  0.0    -      -     - -        Ss   18:32   0:01 -
+root         600  0.0  0.5 253204 17188 ?        -    18:32   0:00 /usr/sbin/NetworkManager --no-daemon
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root         603  0.0  0.3 234608 11204 ?        -    18:32   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root         605  0.0  0.1 221776  4512 ?        -    18:32   0:00 /usr/sbin/rsyslogd -n -iNONE
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root         607  0.0  0.1  10004  5092 ?        -    18:32   0:00 /usr/sbin/smartd -n
+root           -  0.0    -      -     - -        Ss   18:32   0:00 -
+root         653  0.0  0.3 313232 10056 ?        -    18:32   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+acunetix     655  0.0  0.1   6860  3256 ?        -    18:32   0:00 /bin/bash /home/acunetix/.acunetix_trial/start.sh
+acunetix       -  0.0    -      -     - -        Ss   18:32   0:00 -
+root         668  0.0  0.2 240912  8608 ?        -    18:32   0:00 /usr/sbin/gdm3
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+acunetix     694  0.0  0.6 192792 19192 ?        -    18:32   0:00 /home/acunetix/.acunetix_trial/v_190409112/database/bin/postgres -D /home/acunetix/.acunetix_trial/db --port=45432
+acunetix       -  0.0    -      -     - -        S    18:32   0:00 -
+root         697  0.0  0.2  15980  7504 ?        -    18:32   0:00 /lib/systemd/systemd-logind
+root           -  0.0    -      -     - -        Ss   18:32   0:00 -
+acunetix     727  0.0  0.1 192792  3340 ?        -    18:32   0:00 postgres: checkpointer process   
+acunetix       -  0.0    -      -     - -        Ss   18:32   0:00 -
+acunetix     728  0.0  0.1 192792  5632 ?        -    18:32   0:00 postgres: writer process   
+acunetix       -  0.0    -      -     - -        Ss   18:32   0:00 -
+acunetix     729  0.0  0.1 192792  3340 ?        -    18:32   0:00 postgres: wal writer process   
+acunetix       -  0.0    -      -     - -        Ss   18:32   0:00 -
+acunetix     730  0.0  0.2 193196  6756 ?        -    18:32   0:00 postgres: autovacuum launcher process   
+acunetix       -  0.0    -      -     - -        Ss   18:32   0:00 -
+acunetix     731  0.0  0.1  47928  3852 ?        -    18:32   0:02 postgres: stats collector process   
+acunetix       -  0.0    -      -     - -        Ss   18:32   0:02 -
+root         800  0.0  0.2 166100  9040 ?        -    18:32   0:00 gdm-session-worker [pam/gdm-autologin]
+root           -  0.0    -      -     - -        Sl   18:32   0:00 -
+root           -  0.0    -      -     - -        Sl   18:32   0:00 -
+root           -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj          874  0.0  0.3  18300  9668 ?        -    18:32   0:00 /lib/systemd/systemd --user LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify HOME=/home/qsj LOGNAME=qsj USER=qsj SHELL=/bin/bash INVOCATION_ID=b57c031bdd5c41e587518ace89c1cd54 JOURNAL_STREAM=9:25698 XDG_RUNTIME_DIR=/run/user/1000
+qsj            -  0.0    -      -     - -        Ss   18:32   0:00 -
+qsj          875  0.0  0.0 102116  2700 ?        -    18:32   0:00 (sd-pam)
+qsj            -  0.0    -      -     - -        S    18:32   0:00 -
+qsj          887  0.0  0.7 1150828 23580 ?       -    18:32   0:00 /usr/bin/pulseaudio --daemonize=no HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=874 LISTEN_PID=887 LISTEN_FDS=1 LISTEN_FDNAMES=pulseaudio.socket INVOCATION_ID=0783a1cec67f40808b27e9f6161cbd85 JOURNAL_STREAM=9:24910
+qsj            -  0.0    -      -     - -        S<sl 18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj          890  0.0  0.2 237660  6720 ?        -    18:32   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj          894  0.0  0.1 159108  5736 tty2     -    18:32   0:00 /usr/lib/gdm3/gdm-wayland-session /usr/bin/gnome-session XDG_SEAT=seat0 LOGNAME=qsj USER=qsj USERNAME=qsj HOME=/home/qsj PWD=/home/qsj SHELL=/bin/bash PATH=/usr/local/bin:/usr/bin:/bin:/usr/games XDG_SESSION_TYPE=wayland XDG_VTNR=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh XDG_SESSION_ID=1 XDG_RUNTIME_DIR=/run/user/1000 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_SESSION_CLASS=user XDG_CURRENT_DESKTOP=GNOME GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 DESKTOP_SESSION=gnome XDG_SESSION_DESKTOP=gnome
+qsj            -  0.0    -      -     - -        Ssl+ 18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl+ 18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl+ 18:32   0:00 -
+qsj          896  0.0  0.1   8264  5396 ?        -    18:32   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus MANAGERPID=874 LISTEN_PID=896 LISTEN_FDS=1 LISTEN_FDNAMES=dbus.socket INVOCATION_ID=de87eddcf1744058a82d428cc5c3de50 JOURNAL_STREAM=9:25794
+qsj            -  0.0    -      -     - -        Ss   18:32   0:00 -
+qsj          898  0.0  0.5 275324 16120 tty2     -    18:32   0:00 /usr/libexec/gnome-session-binary --systemd LANGUAGE=zh_CN:zh USER=qsj XDG_SEAT=seat0 XDG_SESSION_TYPE=wayland SHLVL=0 HOME=/home/qsj DESKTOP_SESSION=gnome GTK_MODULES=gail:atk-bridge DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus QT_QPA_PLATFORMTHEME=qt5ct LOGNAME=qsj QT_AUTO_SCREEN_SCALE_FACTOR=0 _=/usr/bin/gnome-session XDG_SESSION_CLASS=user USERNAME=qsj XDG_SESSION_ID=1 PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games GDM_LANG=zh_CN.UTF-8 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true XDG_RUNTIME_DIR=/run/user/1000 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_DESKTOP=gnome SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=gnome XDG_VTNR=2 PWD=/home/qsj
+qsj            -  0.0    -      -     - -        Sl+  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl+  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl+  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl+  18:32   0:00 -
+acunetix     919  0.0  0.0   2500   816 ?        -    18:32   0:00 /home/acunetix/.acunetix_trial/v_190409112/backend/opsrv --conf /home/acunetix/.acunetix_trial/wvs.ini
+acunetix       -  0.0    -      -     - -        S    18:32   0:00 -
+acunetix     922  2.0  2.4 270496 75140 ?        -    18:32   1:31 /home/acunetix/.acunetix_trial/v_190409112/backend/opsrv --conf /home/acunetix/.acunetix_trial/wvs.ini
+acunetix       -  2.0    -      -     - -        Sl   18:32   1:31 -
+acunetix       -  0.0    -      -     - -        Sl   18:32   0:00 -
+rtkit        925  0.0  0.0 152684  2776 ?        -    18:32   0:00 /usr/libexec/rtkit-daemon
+rtkit          -  0.0    -      -     - -        SNsl 18:32   0:00 -
+rtkit          -  0.0    -      -     - -        Ssl  18:32   0:00 -
+rtkit          -  0.0    -      -     - -        SNsl 18:32   0:00 -
+qsj          929  0.0  0.1  87464  4352 ?        -    18:32   0:00 /usr/libexec/gnome-session-ctl --monitor HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=874 INVOCATION_ID=e1c84a2bf640492eb399c6ea05002eea JOURNAL_STREAM=9:25867
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj          930  0.0  0.1   5880  3676 ?        -    18:32   0:00 ssh-agent -D -a /run/user/1000/openssh_agent
+qsj            -  0.0    -      -     - -        Ss   18:32   0:00 -
+qsj          933  0.0  0.5 497044 15432 ?        -    18:32   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=gnome HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=874 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 JOURNAL_STREAM=9:25908
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj          948  0.0  0.2 309192  6432 ?        -    18:32   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 JOURNAL_STREAM=9:25908 QT_IM_MODULE=ibus XMODIFIERS=@im=ibus GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh DESKTOP_AUTOSTART_ID=10e861b0221c13d00e158824274062440800000009330036 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/at-spi-dbus-bus.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=948
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj          949  2.6  9.6 4299540 294456 ?      -    18:32   2:00 /usr/bin/gnome-shell HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=874 INVOCATION_ID=fac7e692c0ef4739af816e9bfc4968f0 JOURNAL_STREAM=9:27743
+qsj            -  1.0    -      -     - -        Ssl  18:32   0:47 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.3    -      -     - -        Ssl  18:32   0:15 -
+qsj            -  0.2    -      -     - -        Ssl  18:32   0:11 -
+qsj            -  0.2    -      -     - -        Ssl  18:32   0:11 -
+qsj            -  0.2    -      -     - -        Ssl  18:32   0:10 -
+qsj            -  0.2    -      -     - -        Ssl  18:32   0:10 -
+qsj            -  0.2    -      -     - -        Ssl  18:32   0:11 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj          962  0.0  0.1   7048  4240 ?        -    18:32   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3 HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 JOURNAL_STREAM=9:25908 QT_IM_MODULE=ibus XMODIFIERS=@im=ibus GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh DESKTOP_AUTOSTART_ID=10e861b0221c13d00e158824274062440800000009330036 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/at-spi-dbus-bus.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=948
+qsj            -  0.0    -      -     - -        S    18:32   0:00 -
+qsj          965  0.0  0.1 156068  5564 ?        -    18:32   0:00 /usr/lib/dconf/dconf-service _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=3339f1196ded23ad3d37b7b05eaaa934 SSH_AGENT_LAUNCHER=openssh XDG_CURRENT_DESKTOP=GNOME XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 DESKTOP_SESSION=gnome QT_AUTO_SCREEN_SCALE_FACTOR=0 SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 XMODIFIERS=@im=ibus SSH_AUTH_SOCK=/run/user/1000/keyring/ssh PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games GNOME_DESKTOP_SESSION_ID=this-is-deprecated GDMSESSION=gnome USERNAME=qsj GTK_MODULES=gail:atk-bridge XDG_SESSION_TYPE=wayland JOURNAL_STREAM=9:25908 LANGUAGE=zh_CN:zh DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=3339f1196ded23ad3d37b7b05eaaa934 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 QT_IM_MODULE=ibus XDG_SESSION_CLASS=user USER=qsj DBUS_STARTER_BUS_TYPE=session PWD=/home/qsj GDM_LANG=zh_CN.UTF-8 SHLVL=0 QT_QPA_PLATFORMTHEME=qt5ct XDG_MENU_PREFIX=gnome- MANAGERPID=874 LANG=zh_CN.UTF-8 XDG_SESSION_DESKTOP=gnome _=/usr/bin/gnome-session HOME=/home/qsj LOGNAME=qsj
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj          991  0.0  0.2 237124  7640 ?        -    18:32   0:00 /usr/libexec/gvfsd HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=9f55af673a5d41628fa1edf96896eb6f JOURNAL_STREAM=9:24213
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj          996  0.0  0.2 379832  7996 ?        -    18:32   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=9f55af673a5d41628fa1edf96896eb6f JOURNAL_STREAM=9:24213
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1004  0.0  1.7 1044596 51768 ?       -    18:32   0:02 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.FJAVJ0 -listen 4 -listen 5 -displayfd 6 HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=874 INVOCATION_ID=fac7e692c0ef4739af816e9bfc4968f0 JOURNAL_STREAM=9:27743 NO_AT_BRIDGE=1 WAYLAND_SOCKET=3
+qsj            -  0.0    -      -     - -        Sl   18:32   0:02 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1052  0.0  0.1 233172  4784 ?        -    18:32   0:00 /usr/libexec/xdg-permission-store HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=ff4c2f6f03444ca6a17134475f72d753 JOURNAL_STREAM=9:26903
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1055  0.0  0.6 505484 20900 ?        -    18:32   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=3339f1196ded23ad3d37b7b05eaaa934 SSH_AGENT_LAUNCHER=openssh DISPLAY=:0 XDG_CURRENT_DESKTOP=GNOME XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 DESKTOP_SESSION=gnome QT_AUTO_SCREEN_SCALE_FACTOR=0 SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 XMODIFIERS=@im=ibus SSH_AUTH_SOCK=/run/user/1000/keyring/ssh PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games GNOME_DESKTOP_SESSION_ID=this-is-deprecated GDMSESSION=gnome USERNAME=qsj GTK_MODULES=gail:atk-bridge XDG_SESSION_TYPE=wayland JOURNAL_STREAM=9:25908 LANGUAGE=zh_CN:zh DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=3339f1196ded23ad3d37b7b05eaaa934 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 QT_IM_MODULE=ibus XDG_SESSION_CLASS=user USER=qsj DBUS_STARTER_BUS_TYPE=session WAYLAND_DISPLAY=wayland-0 PWD=/home/qsj GDM_LANG=zh_CN.UTF-8 SHLVL=0 QT_QPA_PLATFORMTHEME=qt5ct XDG_MENU_PREFIX=gnome- MANAGERPID=874 LANG=zh_CN.UTF-8 XDG_SESSION_DESKTOP=gnome _=/usr/bin/gnome-session HOME=/home/qsj LOGNAME=qsj
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1061  0.0  0.9 1079904 27980 ?       -    18:32   0:00 /usr/libexec/evolution-source-registry HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=e2cfdf3e8bd04e759085b99a1e68cb92 JOURNAL_STREAM=9:28695
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root        1065  0.0  0.3 249576  9560 ?        -    18:32   0:00 /usr/lib/upower/upowerd
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1069  0.0  1.1 549612 36040 ?        -    18:32   0:00 /usr/lib/gnome-online-accounts/goa-daemon _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=3339f1196ded23ad3d37b7b05eaaa934 SSH_AGENT_LAUNCHER=openssh DISPLAY=:0 XDG_CURRENT_DESKTOP=GNOME XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 DESKTOP_SESSION=gnome QT_AUTO_SCREEN_SCALE_FACTOR=0 SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 XMODIFIERS=@im=ibus SSH_AUTH_SOCK=/run/user/1000/keyring/ssh PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games GNOME_DESKTOP_SESSION_ID=this-is-deprecated GDMSESSION=gnome USERNAME=qsj GTK_MODULES=gail:atk-bridge XDG_SESSION_TYPE=wayland JOURNAL_STREAM=9:25908 LANGUAGE=zh_CN:zh DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=3339f1196ded23ad3d37b7b05eaaa934 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 QT_IM_MODULE=ibus XDG_SESSION_CLASS=user USER=qsj DBUS_STARTER_BUS_TYPE=session WAYLAND_DISPLAY=wayland-0 PWD=/home/qsj GDM_LANG=zh_CN.UTF-8 SHLVL=0 QT_QPA_PLATFORMTHEME=qt5ct XDG_MENU_PREFIX=gnome- MANAGERPID=874 LANG=zh_CN.UTF-8 XDG_SESSION_DESKTOP=gnome _=/usr/bin/gnome-session HOME=/home/qsj LOGNAME=qsj
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+root        1076  0.0  0.1  13472  5252 ?        -    18:32   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root           -  0.0    -      -     - -        Ss   18:32   0:00 -
+qsj         1077  0.0  0.3 494148 11484 ?        -    18:32   0:00 /usr/libexec/gvfs-udisks2-volume-monitor HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=39037cdaf5844b109de071b4410dffd2 JOURNAL_STREAM=9:26107
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root        1080  0.0  0.4 392192 12260 ?        -    18:32   0:00 /usr/lib/udisks2/udisksd
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+root           -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1094  0.0  0.3 312280  9984 ?        -    18:32   0:00 /usr/lib/gnome-online-accounts/goa-identity-service _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=3339f1196ded23ad3d37b7b05eaaa934 SSH_AGENT_LAUNCHER=openssh DISPLAY=:0 XDG_CURRENT_DESKTOP=GNOME XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 DESKTOP_SESSION=gnome QT_AUTO_SCREEN_SCALE_FACTOR=0 SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 XMODIFIERS=@im=ibus SSH_AUTH_SOCK=/run/user/1000/keyring/ssh PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games GNOME_DESKTOP_SESSION_ID=this-is-deprecated GDMSESSION=gnome USERNAME=qsj GTK_MODULES=gail:atk-bridge XDG_SESSION_TYPE=wayland JOURNAL_STREAM=9:25908 LANGUAGE=zh_CN:zh DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=3339f1196ded23ad3d37b7b05eaaa934 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 QT_IM_MODULE=ibus XDG_SESSION_CLASS=user USER=qsj DBUS_STARTER_BUS_TYPE=session WAYLAND_DISPLAY=wayland-0 PWD=/home/qsj GDM_LANG=zh_CN.UTF-8 SHLVL=0 QT_QPA_PLATFORMTHEME=qt5ct XDG_MENU_PREFIX=gnome- MANAGERPID=874 LANG=zh_CN.UTF-8 XDG_SESSION_DESKTOP=gnome _=/usr/bin/gnome-session HOME=/home/qsj LOGNAME=qsj
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1113  0.0  0.1 233360  6004 ?        -    18:32   0:00 /usr/libexec/gvfs-goa-volume-monitor HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=c9e19261c527491d9075f00d4d606894 JOURNAL_STREAM=9:24467
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1120  0.0  0.2 314212  8640 ?        -    18:32   0:00 /usr/libexec/gvfs-afc-volume-monitor HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=b2b8421e78c943a8b159a38176dc86c3 JOURNAL_STREAM=9:26980
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1128  0.0  0.2 233144  6152 ?        -    18:32   0:00 /usr/libexec/gvfs-mtp-volume-monitor HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=a649b310708d4861b3317b90b7a6306c JOURNAL_STREAM=9:27019
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1132  0.0  0.2 235508  6524 ?        -    18:32   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=e8090f585f0c4f50a45e6289b8b39c43 JOURNAL_STREAM=9:27058
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1147  0.0  0.2 311332  7780 ?        -    18:32   0:00 /usr/libexec/gvfsd-trash --spawner :1.23 /org/gtk/gvfs/exec_spaw/0 HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=9f55af673a5d41628fa1edf96896eb6f JOURNAL_STREAM=9:24213
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1156  0.0  0.2 308512  8372 ?        -    18:32   0:01 ibus-daemon --panel disable -r --xim HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=874 INVOCATION_ID=fac7e692c0ef4739af816e9bfc4968f0 JOURNAL_STREAM=9:27743 DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:01 -
+qsj         1158  0.0  0.2 170660  6780 ?        -    18:32   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-AnTjjQM3T6,guid=24a76da224b375fe61f8183c5eaaa934 XDG_CURRENT_DESKTOP=GNOME XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 DESKTOP_SESSION=gnome QT_AUTO_SCREEN_SCALE_FACTOR=0 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 XMODIFIERS=@im=ibus PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games GIO_LAUNCHED_DESKTOP_FILE_PID=948 GNOME_DESKTOP_SESSION_ID=this-is-deprecated USERNAME=qsj GDMSESSION=gnome GTK_MODULES=gail:atk-bridge XDG_SESSION_TYPE=wayland JOURNAL_STREAM=9:25908 LANGUAGE=zh_CN:zh DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/at-spi-dbus-bus.desktop DESKTOP_AUTOSTART_ID=10e861b0221c13d00e158824274062440800000009330036 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 QT_IM_MODULE=ibus XDG_SESSION_CLASS=user USER=qsj DBUS_STARTER_BUS_TYPE=accessibility SHLVL=0 PWD=/home/qsj GDM_LANG=zh_CN.UTF-8 QT_QPA_PLATFORMTHEME=qt5ct XDG_MENU_PREFIX=gnome- MANAGERPID=874 LANG=zh_CN.UTF-8 _=/usr/bin/gnome-session XDG_SESSION_DESKTOP=gnome HOME=/home/qsj LOGNAME=qsj
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1166  0.0  0.3 234100  9352 ?        -    18:32   0:00 /usr/lib/ibus/ibus-dconf HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=874 INVOCATION_ID=fac7e692c0ef4739af816e9bfc4968f0 JOURNAL_STREAM=9:27743 DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1167  0.0  0.9 354768 29860 ?        -    18:32   0:01 /usr/lib/ibus/ibus-extension-gtk3 HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=874 INVOCATION_ID=fac7e692c0ef4739af816e9bfc4968f0 JOURNAL_STREAM=9:27743 DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+qsj            -  0.0    -      -     - -        Sl   18:32   0:01 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1169  0.0  1.9 1214104 59204 ?       -    18:32   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=874 INVOCATION_ID=fac7e692c0ef4739af816e9bfc4968f0 JOURNAL_STREAM=9:27743 DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1174  0.0  0.2 233916  7052 ?        -    18:32   0:00 /usr/lib/ibus/ibus-portal _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=3339f1196ded23ad3d37b7b05eaaa934 SSH_AGENT_LAUNCHER=openssh DISPLAY=:0 XDG_CURRENT_DESKTOP=GNOME XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 DESKTOP_SESSION=gnome QT_AUTO_SCREEN_SCALE_FACTOR=0 SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 XMODIFIERS=@im=ibus SSH_AUTH_SOCK=/run/user/1000/keyring/ssh PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games GNOME_DESKTOP_SESSION_ID=this-is-deprecated GDMSESSION=gnome USERNAME=qsj GTK_MODULES=gail:atk-bridge XDG_SESSION_TYPE=wayland JOURNAL_STREAM=9:25908 LANGUAGE=zh_CN:zh DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=3339f1196ded23ad3d37b7b05eaaa934 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 QT_IM_MODULE=ibus XDG_SESSION_CLASS=user USER=qsj DBUS_STARTER_BUS_TYPE=session WAYLAND_DISPLAY=wayland-0 PWD=/home/qsj GDM_LANG=zh_CN.UTF-8 SHLVL=0 QT_QPA_PLATFORMTHEME=qt5ct XDG_MENU_PREFIX=gnome- MANAGERPID=874 LANG=zh_CN.UTF-8 XDG_SESSION_DESKTOP=gnome _=/usr/bin/gnome-session HOME=/home/qsj LOGNAME=qsj
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1184  0.0  1.1 848548 34808 ?        -    18:32   0:00 /usr/libexec/evolution-calendar-factory HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=80b23b9eb5584f16b4fddb7fc52a90f1 JOURNAL_STREAM=9:25263
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1222  0.0  1.1 667368 35276 ?        -    18:32   0:00 /usr/libexec/evolution-addressbook-factory HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=c2d734697699409682690595b7e11fb4 JOURNAL_STREAM=9:27278
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1227  0.0  0.2 307232  8668 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=2375014556b64a44a8f56a4c16892b1e JOURNAL_STREAM=9:25312
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1228  0.0  0.7 641408 23700 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-color HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=22d9be3b528b4581bb3b9eb6bb707ce1 JOURNAL_STREAM=9:27319
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1232  0.0  0.5 383536 15956 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=0868d65a66074742b6f5a15469bb5a83 JOURNAL_STREAM=9:27357
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1233  0.0  0.2 309252  7452 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=89781bf2babe49bb8adff8e8b4609720 JOURNAL_STREAM=9:26444
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1235  0.0  1.5 455616 48008 ?        -    18:32   0:00 /usr/bin/python3 /usr/bin/blueman-applet HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 JOURNAL_STREAM=9:25908 QT_IM_MODULE=ibus XMODIFIERS=@im=ibus GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 DESKTOP_AUTOSTART_ID=10e861b0221c13d00e158824274064477000000009330054 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/blueman.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1235
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1236  0.0  0.7 350496 21832 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=54c83abc37204d8697a188ac1d5831b2 JOURNAL_STREAM=9:25352
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1238  0.0  0.8 1109920 25632 ?       -    18:32   0:00 /usr/libexec/tracker-miner-fs HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 JOURNAL_STREAM=9:25908 QT_IM_MODULE=ibus XMODIFIERS=@im=ibus GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 DESKTOP_AUTOSTART_ID=10e861b0221c13d00e158824274061168000000009330026 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/tracker-miner-fs.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1238
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj         1239  0.0  0.8 694524 26040 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=534cb13fb46e4387b9eefb968b1122d4 JOURNAL_STREAM=9:28899
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1244  0.0  0.8 501624 25648 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-power HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=0458fc23f6ce4bfca04acd3b77566c55 JOURNAL_STREAM=9:24546
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1245  0.0  0.3 319340 10752 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=de2db25bf62f49cb8e140df30bcc4392 JOURNAL_STREAM=9:28976
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1247  0.0  0.1 454580  6016 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=e6b0bf91261f4e30a40a7aa7323d64b9 JOURNAL_STREAM=9:28182
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1249  0.0  0.2 232996  7888 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=13178d5715e0481c9da2de504af75a2e JOURNAL_STREAM=9:27395
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1252  0.0  0.1 231464  5272 ?        -    18:32   0:00 /usr/libexec/gsd-disk-utility-notify HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 JOURNAL_STREAM=9:25908 QT_IM_MODULE=ibus XMODIFIERS=@im=ibus GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 DESKTOP_AUTOSTART_ID=10e861b0221c13d00e158824274063832200000009330046 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.DiskUtilityNotify.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1252
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1254  0.0  0.3 462184 10272 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=d59208c4d346424f8edea978033d55fd JOURNAL_STREAM=9:27436
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1259  0.0  0.3 312572 11964 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=c15b9a0cf52c496ab52dac46c4faad9b JOURNAL_STREAM=9:27476
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1265  0.0  0.3 320800  9204 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-sound HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=47a74132de78422db05b284864b0aeed JOURNAL_STREAM=9:27517
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1267  0.0  0.7 424464 22036 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=d3e028f2d1c14738914691e220d4e653 JOURNAL_STREAM=9:25393
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1273  0.0  0.3 311544 10020 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-wwan HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=21e93167d232479393e0b7fcf424cb92 JOURNAL_STREAM=9:25430
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1275  0.0  1.1 1209488 34348 ?       -    18:32   0:00 /usr/libexec/tracker-extract HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 JOURNAL_STREAM=9:25908 QT_IM_MODULE=ibus XMODIFIERS=@im=ibus GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 DESKTOP_AUTOSTART_ID=10e861b0221c13d00e158824274063956000000009330047 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/tracker-extract.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1275
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        SNl  18:32   0:00 -
+qsj         1279  0.0  0.7 353832 24100 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=1ba71452cfeb4edcaaf23cb6e43e6605 JOURNAL_STREAM=9:27642
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1280  0.0  1.2 300668 36884 ?        -    18:32   0:03 /usr/bin/vmtoolsd -n vmusr --blockFd 3 --uinputFd 4 HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 JOURNAL_STREAM=9:25908 QT_IM_MODULE=ibus XMODIFIERS=@im=ibus GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 DESKTOP_AUTOSTART_ID=10e861b0221c13d00e158824274065326800000009330061 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/vmware-user.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1271
+qsj            -  0.0    -      -     - -        Sl   18:32   0:03 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1292  0.0  1.9 640208 60216 ?        -    18:32   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 JOURNAL_STREAM=9:25908 QT_IM_MODULE=ibus XMODIFIERS=@im=ibus GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 DESKTOP_AUTOSTART_ID=10e861b0221c13d00e158824274064869500000009330058 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.Evolution-alarm-notify.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1292
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1318  0.0  0.4 353024 13908 ?        -    18:32   0:00 /usr/lib/gnome-settings-daemon/gsd-printer HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=de2db25bf62f49cb8e140df30bcc4392 JOURNAL_STREAM=9:28976
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1387  0.0  0.4 167504 12740 ?        -    18:32   0:00 /usr/lib/ibus/ibus-engine-pinyin --ibus HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=874 INVOCATION_ID=fac7e692c0ef4739af816e9bfc4968f0 JOURNAL_STREAM=9:27743 DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+colord      1445  0.0  0.4 241716 12624 ?        -    18:32   0:00 /usr/lib/colord/colord
+colord         -  0.0    -      -     - -        Ssl  18:32   0:00 -
+colord         -  0.0    -      -     - -        Ssl  18:32   0:00 -
+colord         -  0.0    -      -     - -        Ssl  18:32   0:00 -
+qsj         1460  0.0  1.3 369916 42112 ?        -    18:32   0:00 /usr/bin/python3 /usr/bin/blueman-tray HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 PWD=/home/qsj SHLVL=0 USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=ade50ebfd9f8438c9021416d7937f551 JOURNAL_STREAM=9:25908 QT_IM_MODULE=ibus XMODIFIERS=@im=ibus GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 DESKTOP_AUTOSTART_ID=10e861b0221c13d00e158824274064477000000009330054 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/blueman.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1460 BLUEMAN_EVENT_TIME=0
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1478  0.0  0.2  44500  6752 ?        -    18:32   0:00 /usr/lib/bluetooth/obexd HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=baf8104cc919437bb870bc08e1e733dc JOURNAL_STREAM=9:30920
+qsj            -  0.0    -      -     - -        Ss   18:32   0:00 -
+qsj         1487  0.1  3.5 1611272 108392 ?      -    18:32   0:06 qterminal HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=fac7e692c0ef4739af816e9bfc4968f0 JOURNAL_STREAM=9:27743 DISPLAY=:0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 WAYLAND_DISPLAY=wayland-0 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/qterminal.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1487
+qsj            -  0.1    -      -     - -        Sl   18:32   0:04 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:01 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj            -  0.0    -      -     - -        Sl   18:32   0:00 -
+qsj         1495  0.0  0.1   9172  5752 pts/0    -    18:32   0:00 /bin/bash COLORFGBG=15;0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/qterminal.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1487 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG GNOME_DESKTOP_SESSION_ID=this-is-deprecated GTK_MODULES=gail:atk-bridge HOME=/home/qsj INVOCATION_ID=fac7e692c0ef4739af816e9bfc4968f0 JOURNAL_STREAM=9:27743 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj MANAGERPID=874 PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games PWD=/home/qsj QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_IM_MODULE=ibus QT_QPA_PLATFORMTHEME=qt5ct SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHELL=/bin/bash SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TERM=xterm-256color USER=qsj USERNAME=qsj WAYLAND_DISPLAY=wayland-0 WINDOWID=0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+qsj            -  0.0    -      -     - -        Ss   18:32   0:00 -
+qsj         1560  0.0  0.2 159796  6272 ?        -    18:33   0:00 /usr/libexec/gvfsd-metadata HOME=/home/qsj LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LOGNAME=qsj PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games SHELL=/bin/bash USER=qsj XDG_RUNTIME_DIR=/run/user/1000 GTK_MODULES=gail:atk-bridge QT_ACCESSIBILITY=1 QT_QPA_PLATFORMTHEME=qt5ct QT_AUTO_SCREEN_SCALE_FACTOR=0 _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=gnome DISPLAY=:0 GDMSESSION=gnome GDM_LANG=zh_CN.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated PWD=/home/qsj QT_IM_MODULE=ibus SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 SHLVL=0 SSH_AGENT_LAUNCHER=openssh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh USERNAME=qsj WAYLAND_DISPLAY=wayland-0 XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 XDG_CURRENT_DESKTOP=GNOME XDG_MENU_PREFIX=gnome- XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=gnome XDG_SESSION_TYPE=wayland XMODIFIERS=@im=ibus _=/usr/bin/gnome-session MANAGERPID=874 INVOCATION_ID=c014fe4bcf8145ecae6ad35def0d696e JOURNAL_STREAM=9:32489
+qsj            -  0.0    -      -     - -        Ssl  18:33   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:33   0:00 -
+qsj            -  0.0    -      -     - -        Ssl  18:33   0:00 -
+root        2976  0.2  0.0      0     0 ?        -    19:08   0:04 [kworker/0:0-mm_percpu_wq]
+root           -  0.2    -      -     - -        I    19:08   0:04 -
+root        2980  0.0  0.0      0     0 ?        -    19:09   0:00 [kworker/2:0-events]
+root           -  0.0    -      -     - -        I    19:09   0:00 -
+root        3106  0.0  0.0      0     0 ?        -    19:29   0:00 [kworker/5:1-rcu_gp]
+root           -  0.0    -      -     - -        I    19:29   0:00 -
+root        3194  0.0  0.0      0     0 ?        -    19:32   0:00 [kworker/u256:1-events_unbound]
+root           -  0.0    -      -     - -        I    19:32   0:00 -
+root        3209  0.0  0.0      0     0 ?        -    19:39   0:00 [kworker/4:1-mpt_poll_0]
+root           -  0.0    -      -     - -        I    19:39   0:00 -
+root        3210  0.0  0.0      0     0 ?        -    19:39   0:00 [kworker/5:2-events]
+root           -  0.0    -      -     - -        I    19:39   0:00 -
+root        3250  0.0  0.0      0     0 ?        -    19:39   0:00 [kworker/3:0-events]
+root           -  0.0    -      -     - -        I    19:39   0:00 -
+root        3254  0.0  0.0      0     0 ?        -    19:40   0:00 [kworker/0:1-ata_sff]
+root           -  0.0    -      -     - -        I    19:40   0:00 -
+acunetix    3259  0.2  0.4 195232 13260 ?        -    19:42   0:00 postgres: acunetix wvs ::1(58154) idle
+acunetix       -  0.2    -      -     - -        Ss   19:42   0:00 -
+acunetix    3260  0.2  0.4 194840 13312 ?        -    19:42   0:00 postgres: acunetix wvs ::1(58156) idle
+acunetix       -  0.2    -      -     - -        Ss   19:42   0:00 -
+acunetix    3261  0.2  0.4 195220 13160 ?        -    19:42   0:00 postgres: acunetix wvs ::1(58158) idle
+acunetix       -  0.2    -      -     - -        Ss   19:42   0:00 -
+acunetix    3262  0.2  0.4 195736 13408 ?        -    19:42   0:00 postgres: acunetix wvs ::1(58160) idle
+acunetix       -  0.2    -      -     - -        Ss   19:42   0:00 -
+acunetix    3263  0.2  0.4 195256 13280 ?        -    19:42   0:00 postgres: acunetix wvs ::1(58162) idle
+acunetix       -  0.2    -      -     - -        Ss   19:42   0:00 -
+root        3287  0.0  0.0      0     0 ?        -    19:45   0:00 [kworker/0:3-ata_sff]
+root           -  0.0    -      -     - -        I    19:45   0:00 -
+root        3288  0.0  0.0      0     0 ?        -    19:45   0:00 [kworker/3:2-mm_percpu_wq]
+root           -  0.0    -      -     - -        I    19:45   0:00 -
+root        3291  0.0  0.0      0     0 ?        -    19:45   0:00 [kworker/2:1-events]
+root           -  0.0    -      -     - -        I    19:45   0:00 -
+root        3304  0.0  0.0      0     0 ?        -    19:46   0:00 [kworker/u256:2-events_unbound]
+root           -  0.0    -      -     - -        I    19:46   0:00 -
+qsj         3312  0.0  0.1   8844  3244 pts/0    -    19:47   0:00 ps auxwwem SHELL=/bin/bash SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/933,unix/kali:/tmp/.ICE-unix/933 WINDOWID=0 QT_ACCESSIBILITY=1 SSH_AGENT_LAUNCHER=openssh XDG_MENU_PREFIX=gnome- GNOME_DESKTOP_SESSION_ID=this-is-deprecated LANGUAGE=zh_CN:zh SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XMODIFIERS=@im=ibus DESKTOP_SESSION=gnome GTK_MODULES=gail:atk-bridge PWD=/home/qsj XDG_SESSION_DESKTOP=gnome LOGNAME=qsj QT_QPA_PLATFORMTHEME=qt5ct XDG_SESSION_TYPE=wayland XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.FJAVJ0 GJS_DEBUG_TOPICS=JS ERROR;JS LOG GDM_LANG=zh_CN.UTF-8 HOME=/home/qsj USERNAME=qsj LANG=zh_CN.UTF-8 LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36: XDG_CURRENT_DESKTOP=GNOME WAYLAND_DISPLAY=wayland-0 INVOCATION_ID=fac7e692c0ef4739af816e9bfc4968f0 MANAGERPID=874 GJS_DEBUG_OUTPUT=stderr XDG_SESSION_CLASS=user TERM=xterm-256color USER=qsj COLORFGBG=15;0 DISPLAY=:0 SHLVL=1 QT_IM_MODULE=ibus XDG_RUNTIME_DIR=/run/user/1000 QT_AUTO_SCREEN_SCALE_FACTOR=0 JOURNAL_STREAM=9:27743 PATH=/home/qsj/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games GDMSESSION=gnome DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true GIO_LAUNCHED_DESKTOP_FILE_PID=1487 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/qterminal.desktop _=/usr/bin/ps
+qsj            -  0.0    -      -     - -        R+   19:47   0:00 -
+
